@@ -1,3 +1,24 @@
 *body {
-    
+    background-color: lightblue;
+    color: whitesmoke;
+}
+
+.header h1 {
+    color: darkblue;
+}    
+
+.article h2 {
+    color: darkblue;
+}
+
+.article h3 {
+    color: darkcyan;
+}
+.article p {
+
+    color: white;
+}
+
+body {
+    background-color: lightblue;
 }
